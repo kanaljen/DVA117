@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Block 1">
+      <FileRef
+         location = "group:DVA117/Block 1/Laboration 1/Laboration 1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DVA117/Block 1/Laboration 2/Laboration 2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DVA117/Block 1/Laboration 3/Laboration 3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DVA117/Block 1/Laboration 4/Laboration 4.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Block 2">
+      <FileRef
+         location = "group:DVA117/Block 2/Laboration 5/Laboration 5.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DVA117/Block 2/Laboration 6/Laboration 6.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DVA117/Block 2/Laboration 7/Laboration 7.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DVA117/Block 2/Laboration 8/Laboration 8.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
